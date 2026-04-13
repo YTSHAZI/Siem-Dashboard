@@ -1,5 +1,4 @@
 // ===================
-// ©AngelaMos | 2026
 // constants.ts
 //
 // Application-wide constants for the SIEM dashboard frontend
