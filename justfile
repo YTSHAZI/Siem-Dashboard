@@ -1,4 +1,4 @@
-# ©AngelaMos | 2026
+
 # justfile
 
 set dotenv-load
