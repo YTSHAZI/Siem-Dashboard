@@ -1,5 +1,5 @@
 // ===================
-// ©AngelaMos | 2026
+// 
 // index.tsx
 //
 // Admin-only user management table with role, status, and delete controls
