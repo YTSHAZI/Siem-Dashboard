@@ -1,5 +1,5 @@
 // ===================
-// ©AngelaMos | 2026
+
 // App.tsx
 //
 // Root application component
